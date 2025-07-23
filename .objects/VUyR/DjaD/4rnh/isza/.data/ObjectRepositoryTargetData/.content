@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aDlCH722ikyjZopt1ujGpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="4033fb43-897d-4b57-ac2f-212b7d8b0420" CvTextArea="394, 385, 883, 41" CvTextArgument="Welcome, hown@sunway.com.my to System 1." CvType="Text" DesignTimeRectangle="397, 382, 1125, 44" DesignTimeScaleFactor="1.125" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H1' class='' aaname='Welcome,  to System 1.' check:innerText='Welcome, hown@sunway.com.my to System 1.' /&gt;" Guid="83767f97-7f20-485f-8d38-6a499055b78e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4033fb43-897d-4b57-ac2f-212b7d8b0420" CvTextArea="317, 221, 198, 35" CvTextArgument="Dashboard" CvType="Text" DesignTimeRectangle="318, 218, 1283, 56" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                 Dashboard                                     ' check:innerText='Dashboard' /&gt;" Guid="db37e50c-5b6c-4939-8f67-cb57d5608a9f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1b91b30b704112deb8784abba1ca2fd5.png" xmlns="">0Qr4BpsB-40SIJCdQelqPhw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

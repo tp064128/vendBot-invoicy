@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tDU9o3M_Q0uELdFAbH6Z6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="f5ce777a-2964-4e38-a20d-1b54f5621d72" CvTextArea="1542, 136, 59, 18" CvTextArgument="Log Out" CvType="Text" DesignTimeRectangle="1528, 117, 90, 56" DesignTimeScaleFactor="1.125" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Log Out' parentid='bs-example-navbar-collapse-1' tag='A' type='' class='' check:innerText='Log Out' /&gt;" Guid="227b9a7b-93bc-4f74-84ce-d0288a86dfa7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="30c8233d47ab69c545570a07d42f1b7c.png" xmlns="">0E9ZMhfZmsE-zasVqH1rDVw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

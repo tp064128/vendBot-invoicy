@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kV_NW-YIUkaZSYzYxkVjMg" Reference="mZL746SqNUmO1yHRtvrqcQ/mqEj1WAHNU6F9Nmu6oPTkQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106823581" CVScreenId="8d659294-b40f-4343-b341-31d58cd210cd" CvTextArea="53, 76, 168, 16" CvTextArgument="Open link in new window" CvType="Text" DesignTimeRectangle="29, 65, 267, 35" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;ctrl name='Open link in new window' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Open link in new window' role='menu item' automationid='' check:text='Open link in new window' /&gt;" Guid="e3600209-d7c9-44b6-828b-2611d0264bff" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8d659294-b40f-4343-b341-31d58cd210cd" CvTextArea="53, 75, 168, 17" CvTextArgument="Open link in new window" CvType="Text" DesignTimeRectangle="53, 75, 168, 17" ElementType="Text" Guid="d31a93b4-bdb9-4dca-ad85-3b0bc5f226c8" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c07de6e2c3f8d99e52af6d1c26e3e4d7.png" xmlns="">0uPB2naf5sUKPr11zHJkWxw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

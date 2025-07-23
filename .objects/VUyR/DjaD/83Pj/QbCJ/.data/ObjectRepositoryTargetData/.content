@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1-gxDHM3oUCiIpCBlponLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/success" CVScreenId="fc57cc0a-dddf-4dbf-bf17-d23c757cc629" CvTextArea="405, 361, 372, 18" CvTextArgument="The performed operation was completely successful.)" CvType="Text" DesignTimeRectangle="407, 359, 1125, 23" DesignTimeScaleFactor="1.125" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='The performed operation was completely successful.)' check:innerText='The performed operation was completely successful.)' /&gt;" Guid="1473f3dd-9472-44b9-83d9-44a4fe9270d7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 -' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fc57cc0a-dddf-4dbf-bf17-d23c757cc629" CvTextArea="326, 221, 153, 35" CvTextArgument="Success" CvType="Text" DesignTimeRectangle="328, 218, 1282, 56" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                                                                                                                                                     Success                                                         ' check:innerText='Success' /&gt;" Guid="b2bf2799-5f81-4ea9-8eb5-8c4a11fab9a4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4deff9d6e510b82e18df0e478c7e00d2.png" xmlns="">0FfdXA4pZ0UaJfKoCr2mEiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

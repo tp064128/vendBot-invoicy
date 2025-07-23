@@ -1,0 +1,221 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_filteredWI3&",
+        "PDF_Currency&",
+        "PDF_TotalAmt&",
+        "PDF_TaxAmt&",
+        "PDF_UntaxedAmt&",
+        "PDF_ItemDesc&",
+        "PDF_Date&",
+        "PDF_InvoiceID&"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_filteredWI3&5a7c361c-667d-4dd4-babb-6f3d3ae29b47",
+        "PDF_Currency&5a7c361c-667d-4dd4-babb-6f3d3ae29b47",
+        "PDF_TotalAmt&5a7c361c-667d-4dd4-babb-6f3d3ae29b47",
+        "PDF_TaxAmt&5a7c361c-667d-4dd4-babb-6f3d3ae29b47",
+        "PDF_UntaxedAmt&5a7c361c-667d-4dd4-babb-6f3d3ae29b47",
+        "PDF_ItemDesc&5a7c361c-667d-4dd4-babb-6f3d3ae29b47",
+        "PDF_Date&5a7c361c-667d-4dd4-babb-6f3d3ae29b47",
+        "PDF_InvoiceID&5a7c361c-667d-4dd4-babb-6f3d3ae29b47",
+        "dt_filteredWI3&c47b80e7-842a-497c-8811-f5370645880d",
+        "PDF_Currency&c47b80e7-842a-497c-8811-f5370645880d",
+        "PDF_TotalAmt&c47b80e7-842a-497c-8811-f5370645880d",
+        "PDF_TaxAmt&c47b80e7-842a-497c-8811-f5370645880d",
+        "PDF_UntaxedAmt&c47b80e7-842a-497c-8811-f5370645880d",
+        "PDF_ItemDesc&c47b80e7-842a-497c-8811-f5370645880d",
+        "PDF_Date&c47b80e7-842a-497c-8811-f5370645880d",
+        "PDF_InvoiceID&c47b80e7-842a-497c-8811-f5370645880d",
+        "PDF_VendorName&Sequence_1",
+        "PDF_TaxID&Sequence_1",
+        "Text_Results&Sequence_1",
+        "InvoiceData&Sequence_1",
+        "Invoice_ID&Sequence_1",
+        "All_Data&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_WIID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "System1_ExtractClientDetails.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PDF_Currency&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TotalAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TaxAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_UntaxedAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_ItemDesc&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_Date&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_InvoiceID&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "dt_filteredWI3&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "Invoice_ID&Sequence_3",
+        "InvoiceData&Sequence_3",
+        "Text_Results&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_VendorName",
+        "out_PDF_TotalAmt",
+        "out_PDF_TaxAmt",
+        "out_PDF_UntaxedAmt",
+        "out_PDF_Currency",
+        "out_PDF_ItemDesc",
+        "out_PDF_Date",
+        "out_PDF_TaxID",
+        "out_PDF_InvoiceID",
+        "in_WIID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "System1_UpdateInvoiceData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PDF_Currency&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TotalAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TaxAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_UntaxedAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_ItemDesc&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_Date&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_InvoiceID&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "dt_filteredWI3&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_WIID",
+        "in_Status",
+        "in_Comment",
+        "in_TotalAmt",
+        "in_TaxAmt",
+        "in_UntaxedAmt",
+        "in_ItemDesc",
+        "in_Currency",
+        "in_Date",
+        "in_VendorID",
+        "in_InvoiceNum"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CheckVendorExist.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vendorName_TaxID&Sequence_7",
+        "PDF_Currency&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TotalAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TaxAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_UntaxedAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_ItemDesc&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_Date&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_InvoiceID&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "searchResult_Msg&Sequence_2",
+        "dt_filteredWI3&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "io_WIID",
+        "io_TotalAmt",
+        "io_TaxID",
+        "io_VendorName",
+        "io_InvoiceNo",
+        "io_Date",
+        "io_ItemDesc",
+        "io_UntaxtedAmt",
+        "io_Currency",
+        "io_TaxAmt",
+        "out_Status",
+        "out_Comment"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "System1_ExtractAllWorkItems.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_filteredWI3&fb279bfd-6af8-41d3-82fa-bca7d7e57653",
+        "PDF_Currency&fb279bfd-6af8-41d3-82fa-bca7d7e57653",
+        "PDF_TotalAmt&fb279bfd-6af8-41d3-82fa-bca7d7e57653",
+        "PDF_TaxAmt&fb279bfd-6af8-41d3-82fa-bca7d7e57653",
+        "PDF_UntaxedAmt&fb279bfd-6af8-41d3-82fa-bca7d7e57653",
+        "PDF_ItemDesc&fb279bfd-6af8-41d3-82fa-bca7d7e57653",
+        "PDF_Date&fb279bfd-6af8-41d3-82fa-bca7d7e57653",
+        "PDF_InvoiceID&fb279bfd-6af8-41d3-82fa-bca7d7e57653",
+        "dt_extractedData&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "System1_Login.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PDF_Currency&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TotalAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TaxAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_UntaxedAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_ItemDesc&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_Date&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_InvoiceID&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "user_Password&Sequence_1",
+        "user_Email&Sequence_1",
+        "dt_filteredWI3&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "System1_UpdateDetails.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PDF_Currency&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TotalAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TaxAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_UntaxedAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_ItemDesc&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_Date&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_InvoiceID&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "dt_filteredWI3&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_WIID",
+        "in_Status",
+        "in_Comment"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "System_Close.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_filteredWI3&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_Currency&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TotalAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_TaxAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_UntaxedAmt&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_ItemDesc&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_Date&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2",
+        "PDF_InvoiceID&3c101aef-e1b0-4ecd-b7fc-1d00c23ff7c2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

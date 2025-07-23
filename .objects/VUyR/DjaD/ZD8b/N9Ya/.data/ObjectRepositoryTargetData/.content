@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8cn5r6Ey3UmcS1JeJDwPsg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/search-by-id/DE325476" CVScreenId="d4084ba1-7c23-496a-8e4c-c0a0ed0322be" CvTextArea="422, 449, 547, 15" CvType="AnyWordGroup" DesignTimeRectangle="424, 446, 1090, 22" DesignTimeScaleFactor="1.125" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' /&gt;" Guid="6e66b0ff-55d7-49af-8179-f7cf1be6dcbf" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Search Results' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d4084ba1-7c23-496a-8e4c-c0a0ed0322be" CvTextArea="422, 396, 108, 15" CvTextArgument="Search Results" CvType="Text" DesignTimeRectangle="408, 383, 1123, 46" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='panel-heading' tag='DIV' type='' aaname='Search Results' check:innerText='Search Results' /&gt;" Guid="d33b0ef3-375a-4168-9c80-719971088a6a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b6b55ad77c4a0f573035df79a20cf2e6.png" xmlns="">0zMMZRpC_VEGQ4zs6RZL3Lw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

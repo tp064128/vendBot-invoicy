@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tbY1EzzZ3UOtkLdXfu0gRw" Reference="mZL746SqNUmO1yHRtvrqcQ/Cm59dwQJJUmmsRf7-Hv8Pw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/testdata/invoices/387/Invoice-937984.pdf" CVScreenId="7a1cfc61-f3a3-41c4-83d3-57ac83589100" CvElementArea="1097, 570, 111, 34" CvTextArea="1135, 580, 33, 15" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="1098, 572, 110, 33" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Save' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Save' check:text='&amp;amp;Save' /&gt;" Guid="a3f931d2-a7ef-4c63-a5b1-b539d6b8c57b" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="20b995a913a6c1df9ff7ddf3c6a04f6d.png" xmlns="">0Jqa9b2Yu2kG2KEnadyzb-g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

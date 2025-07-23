@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yrwZJ6q7sEGoSfCJbdX72g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106823581" DesignTimeRectangle="441, 491, 420, 90" DesignTimeScaleFactor="1.125" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='                              937984                              2017-05-26                              340862                              USD                         ' /&gt;" Guid="aa4ffc4f-a32c-4330-b766-8a7af3caf971" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1e937625-e736-491e-b5f9-577021bba91a" CvTextArea="440, 459, 171, 17" CvTextArgument="Invoice Information" CvType="Text" DesignTimeRectangle="441, 457, 420, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H4' type='' class='' aaname='Invoice Information' check:innerText='Invoice Information' /&gt;" Guid="49d33418-529a-49c0-9adb-53f391e0418b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="274192d6c9f4568fb396eeb31034d047.png" xmlns="">0nqj4E5mcNEKPLgbGc1XHrA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

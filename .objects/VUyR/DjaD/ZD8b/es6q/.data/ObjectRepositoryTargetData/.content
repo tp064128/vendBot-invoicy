@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="beDmmmQxOkyFpF3eppkhLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/search" CVScreenId="b2ad9503-9c32-4831-a045-897ecc2b3581" CvElementArea="405, 536, 548, 43" CvType="InputBox" DesignTimeRectangle="407, 538, 545, 39" DesignTimeScaleFactor="1.125" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='vendorName' tag='INPUT' type='text' class='form-control' aaname='' /&gt;" Guid="f7e07bfb-b413-444b-820f-a6e32b816602" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Vendors - Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b2ad9503-9c32-4831-a045-897ecc2b3581" CvTextArea="404, 512, 106, 15" CvTextArgument="Vendor Name:" CvType="Text" DesignTimeRectangle="407, 510, 105, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Vendor Name:' tag='LABEL' type='' class='' check:innerText='Vendor Name:' /&gt;" Guid="86217d19-3918-4054-b384-5fc3c4b3233b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="42c58456dc84e86409879045cf0e935f.png" xmlns="">0ZcZtQyd9pk2GhiZ_Kd2vcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

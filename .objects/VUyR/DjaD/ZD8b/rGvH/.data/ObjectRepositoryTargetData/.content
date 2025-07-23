@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X4MfgQU680y6JozLyxKLnA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/search" CVScreenId="e73d9ead-3842-4157-8797-6328f445a91c" CvElementArea="405, 419, 547, 42" CvType="InputBox" DesignTimeRectangle="407, 421, 545, 39" DesignTimeScaleFactor="1.125" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='vendorTaxID' tag='INPUT' type='text' class='form-control' aaname='' /&gt;" Guid="4713013f-09ec-4f0f-a79d-a94f248c20c1" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Vendors - Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e73d9ead-3842-4157-8797-6328f445a91c" CvTextArea="405, 395, 106, 16" CvTextArgument="Vendor TaxID:" CvType="Text" DesignTimeRectangle="407, 393, 104, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Vendor TaxID:' check:innerText='Vendor TaxID:' /&gt;" Guid="2f490e35-37c0-4c39-b33b-7dbea62365ef" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bf779d2ed55ef5574f7829c9c677c99b.png" xmlns="">0vKkTC0tMskCE1wZRN1A6dA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

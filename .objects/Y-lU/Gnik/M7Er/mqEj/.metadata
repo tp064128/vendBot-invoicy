@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open link in new tab",
+  "Type": "Element",
+  "Id": "mqEj1WAHNU6F9Nmu6oPTkQ",
+  "Reference": "mZL746SqNUmO1yHRtvrqcQ/mqEj1WAHNU6F9Nmu6oPTkQ",
+  "ParentRef": "mZL746SqNUmO1yHRtvrqcQ/M7ErzTkTo0CIA65U18D8Eg",
+  "Created": "2025-07-22T02:28:04.2625361Z",
+  "Updated": "2025-07-22T02:28:04.2625361Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

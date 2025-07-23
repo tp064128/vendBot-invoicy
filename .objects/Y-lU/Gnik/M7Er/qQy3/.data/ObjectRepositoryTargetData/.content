@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NBpi-B0HEkOAYGvu1DFhTw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106823581" CVScreenId="3af1e91f-2897-4161-a863-e7b835518a38" CvElementArea="439, 613, 213, 42" CvTextArea="477, 624, 159, 16" CvTextArgument="Download PDF Invoice" CvType="Button" DesignTimeRectangle="441, 614, 210, 38" DesignTimeScaleFactor="1.125" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='btn btn-primary' /&gt;" Guid="a3357e31-d5f0-44a1-a2be-f56da55f262a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c34c01cefdabb9214c1a6b0ac5d46921.png" xmlns="">0aOQgrx3QTE2Qc5ZWrHH-xQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QSrZq9mcGEyEG2gqeaMhdQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/testdata/invoices/387/Invoice-937984.pdf" CVScreenId="b009ae1a-b07e-4e8c-b07e-3427c3c916c1" CvElementArea="1786, 138, 26, 27" CvType="Icon" DesignTimeRectangle="1784, 136, 30, 31" DesignTimeScaleFactor="1.25" ElementType="Icon" Guid="82befd54-7427-4b53-b2ee-77fb58a32923" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADCSURBVEhL7dTRCQMhEEXRLcyG7MBK7MQO7MACrMEKDE9wkUnWmRFiPuLHJaKMh12SXMaY+osuurGrA2/rwNtahq21d/RM0jLsva+llPZJzyQdWNyBtangEEJ1zrU1hbGPczrzlBjGxYAQ1iNMz+jsp8QwGoER1qJIBaMRH9OgSA0jimtRtASjjq+giIVjjC26j57Q2UyPhfvrpPuzgHIzLJxSapf0p5CGOXqXCsbPJef89i2eBZT7R2Phb3Xgbf0f/AJ0IMn3AUUNRgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Invoice-937984.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="588a14106df202a1903c5a7d1a3570e1.png" xmlns="">0ZlzKxPH4OkGMonX5BFEbVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

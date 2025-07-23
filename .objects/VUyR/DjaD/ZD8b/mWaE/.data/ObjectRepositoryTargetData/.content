@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c8l56272YkydwV1-FxpCKg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/search-by-id/IT213456" CVScreenId="b53b0e3d-93a7-4a55-90ac-a1c1a92a5df0" CvTextArea="422, 449, 547, 15" CvTextArgument="Please review the vendor(s) details that could be successfully identified below." CvType="Text" DesignTimeRectangle="424, 446, 1090, 22" DesignTimeScaleFactor="1.125" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='Please review the vendor(s) details that could be successfully identified below.' check:innerText='Please review the vendor(s) details that could be successfully identified below.' /&gt;" Guid="ea216571-fd3e-42ca-9365-eab477597894" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Search Results' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b53b0e3d-93a7-4a55-90ac-a1c1a92a5df0" CvTextArea="325, 221, 462, 36" CvTextArgument="Vendors - Search Results" CvType="Text" DesignTimeRectangle="328, 218, 1282, 56" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                                                                                                                                                     Vendors                                                                                                                                         -                                                 Search Results                                                         ' check:innerText='Vendors - Search Results' /&gt;" Guid="724f314b-39f0-4874-bd1d-66306b46aff4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="117e2420fe7b58a8c019ccc7af3963b7.png" xmlns="">0zPZX-XDypkuFeU0Gr9WAiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

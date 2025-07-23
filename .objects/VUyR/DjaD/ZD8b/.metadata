@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ACME System 1 - Vendors - Search",
+  "Type": "Screen",
+  "Id": "ZD8bvg41DEezfZlE_-F7kg",
+  "Reference": "mZL746SqNUmO1yHRtvrqcQ/ZD8bvg41DEezfZlE_-F7kg",
+  "ParentRef": "mZL746SqNUmO1yHRtvrqcQ/DjaDd6UCOU6vXY8MDadxng",
+  "Created": "2025-07-22T07:26:43.7689481Z",
+  "Updated": "2025-07-22T07:26:43.7689481Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

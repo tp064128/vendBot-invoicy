@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Please review the vendo…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mWaE9H6lpEaBX30QYdVZ1w",
+  "Reference": "mZL746SqNUmO1yHRtvrqcQ/mWaE9H6lpEaBX30QYdVZ1w",
+  "ParentRef": "mZL746SqNUmO1yHRtvrqcQ/ZD8bvg41DEezfZlE_-F7kg",
+  "Created": "2025-07-22T08:13:39.2500939Z",
+  "Updated": "2025-07-22T08:13:39.2500939Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
